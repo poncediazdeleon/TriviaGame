@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://cdn.europosters.eu/image/750/posters/harmony-jungle-i3413.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
